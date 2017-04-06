@@ -1,0 +1,5 @@
+* Year 9 eSafety
+1) A 3 lesson course to teach eSafety to teenagers,
+2) Source files in org-mode in source directory if you wish to edit and submit a pull request.
+3) Please don't edit the html directly, it'll just get overwritten on export.
+4) Scheme can be viewed at [[https://bournetocode.com/projects/7-CS-Turing/index.html][Bourne To Code]]

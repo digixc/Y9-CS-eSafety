@@ -1,0 +1,166 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: eSafety
+#+AUTHOR: Stephen Brown
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/Y9-CS-eSafety">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="homework.html">Homework</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Selfie-Conscious
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Sending nude selfies (sometimes known as Sexting) is when someone sends or recieves a sexually explict message through their mobile phone or webcam.
+- This maybe in the form of an image, text or a video and is sometimes called cybersex or sending a nudie.
+** Learn It: The Law
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- A young person is breaking the law if they:
+  - Take an explicit photo or video of themselves or a friend
+  - Share an explicit image or video of a child, even if shared between children of the same age
+  - Possess, download or store an explicit image or video of a child, even if the child gave their permission for it to be created.
+** Learn It: The Police
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- From January 2016 in England and Wales, if a young person is found creating or sharing images, the police can choose to record that a crime has been committed but that taking formal action isn't in the public interest. 
+- Crimes recorded this way are unlikely to appear on future records or checks, unless you have been involved in other similar activities which may indicate that you're at risk.
+- If you’re both under 18 and in a healthy relationship it’s unlikely that the police would want to take things further.
+** Learn It: Discussion
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Discuss the following questions with the person next to you, then record your thoughts on a Notepad or Word document:
+  - What might motivate someone to send a nude selfie to someone else?
+  - What advice would you give a friend if they suggested they were considering sending a nude selfie to a boyfriend or girlfriend? Why would you say that? 
+  - What consequences might there be to sending a nude selfie?
+  - What advice would you give to a friend who send a nude selfie to a boyfriend/girlfriend and is concerned it has been circulated around others in school?
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+- The NSPCC have researched this area, and they estimate that between 15%-40% of young people have been involved in sexting. 
+- Their research shows that issues most commonly come from sexting between peers
+- They found that young people are commonly coerced into sending nude selfies
+- Girls most adversely affected, and access to technology amplifies the problem
+- Ever younger children are being affected.
+
+
+- The NSPCC advise the "Grandma rule" when sending images of yourself:
+- /Only send pictures to people that you'd be happy to show your grandma./
+- The NSPCC have produced a free app called 'Zipit' which comes with a number of humourous comeback lines that can be used in response to requests for nude selfies. 
+- You can pick it up for iPhone [[https://itunes.apple.com/us/app/zipit/id721031543?ls%3D1&mt%3D8][here]], or [[https://play.google.com/store/apps/details?id%3Duk.org.childline.zipit][here]] for Android. 
+** Learn It: Sent a nude selfie?
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- What should you do if you've sent a nude selfie and regretted it?
+- Read James' true story [[https://www.childline.org.uk/get-involved/real-life-stories/sexting-james-story/][here]]. He's a couple of years older than you, but his story is relevant.
+- How did James get started with sexting?
+- What problems did it cause him? 
+- How could he have handled the situation differently?
+- Read the [[https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/sexting/][Childline page on Sexting]], and answer the following questions:
+ - What should you do if an image of you appears on Social Media?
+ - Who do Childline work with to have images and videos removed?
+ - Is sexting illegal?
+ - What can you do if someone is pressuring you to provide explicit photos?
+ - What about if you suspect that person is an adult?
+
+- Watch the video below:
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9uJOXOAQ9Qo" frameborder="0" allowfullscreen></iframe>
+#+END_HTML
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Click [[quiz.html][here]] to take the quiz.
+- *Silver:* Score >50%
+- *Gold:* Score >70%
+- *Platinum:* Score >80%
