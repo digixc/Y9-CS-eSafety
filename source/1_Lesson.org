@@ -1,0 +1,139 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: eSafety
+#+AUTHOR: Stephen Brown
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/Y9-CS-eSafety">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="homework.html">Homework</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* The Social Network
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- There are lots of different Social media platforms.
+- They all have something different to offer, but they all have the potential for problems.
+[[./img/networks.png]]
+- With a partner, see how many of the networks above can you identify in 3 minutes.
+- For each, how would you describe it to someone who has only ever used Facebook?
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Your literacy is being assessed in this task. Ensure you spell-check your work, use paragraphs and appropriate vocabulary. 
+- Create a short summary document for a parent, explaining *five* different social media networks shown above. For each, explain:
+  - A brief explanation of how the service works
+  - What's good about it
+  - Problems that can be encountered
+  - What can be done to protect a young person
+- For example...
+
+#+BEGIN_EXAMPLE
+*Facebook:* Users write their thoughts, which are published to their 'wall'. 
+
+Unless their privacy settings are set to 'friends only', anyone in the World can read them.
+This is a nice way for friends to stay in touch with their friends and family, share photos
+of days out and so on.
+
+People can impersonate others. Some adults can pretend to be children, with a 
+view to forming inappropriate (soemtimes sexual) relationships with them.
+
+Some people can post messages which they later regret. While they can be deleted, 
+they have the capability to cause a lot of upset.
+
+Users should set their privacy settings to 'friends only', avoid accepting 
+strangers as friends and think carefully before posting.
+#+END_EXAMPLE
+
+- *Silver:* Identify and briefy describe five different networks.
+- *Gold:* As for silver, but also includes advantages and risks of each network.
+- *Platinum:* As for gold, but includes parent-friendly advice for each network.
+
+- Useful resources:
+ - [[https://www.ThinkUKnow.co.uk][ThinkUKnow]]
+ - [[https://www.net-aware.org.uk][NSPCC Net Aware]]
+ - [[https://www.internetmatters.org/advice/social-networking/][Internet Matters]]
