@@ -160,7 +160,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Click [[quiz.html][here]] to take the quiz.
+- Click [[https://www.bournetolearn.com/quizzes/y9-eSafety/Lesson_1/index.php][here]] to take the quiz.
 - *Silver:* Score >50%
 - *Gold:* Score >70%
 - *Platinum:* Score >80%
