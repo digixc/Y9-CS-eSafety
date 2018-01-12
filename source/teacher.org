@@ -1,0 +1,122 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+HTML_HEAD_EXTRA: <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+#+HTML_HEAD_EXTRA: <script src="js/navbar.js" type="text/javascript"></script>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
+
+#+TITLE: eSafety
+#+AUTHOR: Stephen Brown
+
+#+BEGIN_HTML
+  <div class="github-fork-ribbon-wrapper left">
+    <div class="github-fork-ribbon">
+      <a href="https://github.com/digixc/Y9-CS-eSafety">Fork me on GitHub</a>
+    </div>
+  </div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="1_Lesson.html">Week1</a></li>
+      <li><a href="2_Lesson.html">Week2</a></li>
+      <li><a href="3_Lesson.html">Week3</a></li>
+      <li><a href="homework.html">Homework</a></li>
+    </ul>
+  </div>
+#+END_HTML
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* Propaganda - TEACHER NOTES
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Follow up with some discussion questions to assess if students understand the different forms of media.
+- What is the difference between the information you receive in a tabloid and in a broadsheet? For example, the Daily Mail –v-the Guardian?
+- What is the difference between the information in a blog and the evening news on TV?
+- Is a Youtube first-hand account video more effective than a news report? Why or why not?
+- Feedback as a class – if you were looking for correct information, what is the most reliable form of media? Why?
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- *Can propaganda be used for good?*
+- Propaganda is information, with a motive, shaped in such a way that will change behaviour or views. In campaigns like the NHS health campaign (Change for Life), this is information from the government given to the public with the clear motive of inspiring people to eat healthier. This is clearly an example where propaganda is used in a a positive way.. However, thinking about the bigger picture, although the campaign has positive intentions, there may be other reasons or motives behind why the campaign is being run, so it may be rare that propaganda is used for only for altruistic purposes.
+- *Who can use propaganda?*
+- These examples of campaigns and advertisements show that governments and companies use propaganda to highlight to their customers/public the information that they want them to know so as to change their views or to persuade them to buy things. However, as propaganda is merely information intended to influence people’s views, anyone can use propaganda. With the rise of social media, more people have access to a wide platform and audience, any individual might use propaganda to share their views with the world. 
+- It is important to encourage your students to question why people online may contact you, and if they have hidden agendas.
+- *Does propaganda give you the full picture of what is going on?*
+- Suggested answer: No, propaganda is carefully selected information and only gives you the picture that they want you to understand. For example, the Navy recruitment campaign hints at the exciting and ‘cool’ life of a Navy Officer. It doesn’t let on that it may be a dangerous job. In the same way, the advertisement for smoking doesn’t outline the potential health risks.
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+- Click [[quiz2.html][here]] to take the quiz.
+- *Silver:* Score >50%
+- *Gold:* Score >70%
+- *Platinum:* Score >80%
