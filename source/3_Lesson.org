@@ -148,12 +148,33 @@ not?
 - What about these?
 [[./img/pop4.png]]
 [[./img/pop5.png]]
-** Badge It
+
+* Badge Task
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
+:HTML_CONTAINER_CLASS: activity
 :END:
-- Click [[quiz2.html][here]] to take the quiz.
-- *Silver:* Score >50%
-- *Gold:* Score >70%
-- *Platinum:* Score >80%
-- Adapted from the superb resources at http://www.childnet.com/resources/trust-me
+- Right click[[./doc/Y9e-safety-week3.docx][ here]] to save the word doc to your home drive.
+- Open the word doc and answer the three questions.
+** Badge It - Silver
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: silver
+:END:
+*** Learning strand: Information Technology
+- Answer all questions in the worksheet with sufficient details and reasonably good English
+
+** Badge It - Gold
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: gold
+:END:
+*** Learning strand: Information Technology
+- Answer all questions in the worksheet with good details and good English
+
+** Badge It - Platinum
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: platinum
+:END:
+*** Learning strand: Information Technology
+- Answer all questions in the worksheet with good details and excellent English
+
+
+ Adapted from the superb resources at http://www.childnet.com/resources/trust-me
