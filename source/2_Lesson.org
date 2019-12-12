@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Fone
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -135,17 +135,17 @@
 - The NSPCC advise the "Grandma rule" when sending images of yourself:
 - /Only send pictures to people that you'd be happy to show your grandma./
 - The NSPCC have produced a free app called 'Zipit' which comes with a number of humourous comeback lines that can be used in response to requests for nude selfies. 
-- You can pick it up for iPhone [[https://itunes.apple.com/us/app/zipit/id721031543?ls%3D1&mt%3D8][here]], or [[https://play.google.com/store/apps/details?id%3Duk.org.childline.zipit][here]] for Android. 
+- You can pick it up for iPhone [[https://itunes.apple.com/us/app/zipit/id721031543?ls%3D1&mt%3D8][here]], or [[https://play.google.com/store/apps/details?id=uk.org.childline.zipit.v2&hl=en_GB][here]] for Android. 
 ** Learn It: Sent a nude selfie?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 - What should you do if you've sent a nude selfie and regretted it?
-- Read James' true story [[https://www.childline.org.uk/get-involved/real-life-stories/sexting-james-story/][here]]. He's a couple of years older than you, but his story is relevant.
-- How did James get started with sexting?
-- What problems did it cause him? 
-- How could he have handled the situation differently?
-- Read the [[https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/sexting/][Childline page on Sexting]], and answer the following questions:
+- Read Charlotte's' true story [[https://www.childline.org.uk/get-involved/real-life-stories/online-grooming-charlottes-story/][here]]. She's a couple of years older than you, but her story is relevant.
+- How did Charlotte get started with sexting?
+- What problems did it cause her? 
+- How could she have handled the situation differently?
+- Read the [[https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/sexting/][Childline]] page on Sexting], and answer the following questions:
  - What should you do if an image of you appears on Social Media?
  - Who do Childline work with to have images and videos removed?
  - Is sexting illegal?
@@ -154,7 +154,9 @@
 
 - Watch the video below:
 #+BEGIN_HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9uJOXOAQ9Qo" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315"  controls>
+<source src="./doc/Exposed.mp4"></source>
+</video>
 #+END_HTML
 ** Badge It
 :PROPERTIES:
