@@ -6,7 +6,7 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Stephen Brown
+#+AUTHOR: Stephen Fone
 
 #+BEGIN_HTML
   <div class="github-fork-ribbon-wrapper left">
@@ -95,27 +95,31 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- List of 5 different ways tyou could find out the latest news.
+- *Open a Word document to make notes on the following:*
+- *List of 5 different ways* you could *find out* the =latest news=.
 - Which is your preferred source of information?
-- In pairs, make a list of the different ways to access the news.
+- *In pairs*, make a *list* of the *different ways* to =access the news=.
 - Rank your examples in order of preferred source of information. 
 - Why did you pick that order?
-
-
 - What is the difference between the information in a blog and the evening news on TV?
 - Is a Youtube first-hand account video more effective than a news report? Why or why
 not?
-** Learn It
+** Learn It: What is propaganda?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- What do we mean by the term propaganda?
-[[./img/prop1.png]]
-- Another example...
-[[./img/prop2.png]]
-- How might an organisation try and change your beliefs?
-- What's their motive for doing this?
-- Their are a number of ways this can be carried out:
+- *Watch the video below:*
+#+BEGIN_HTML
+<video width="560" height="315"  controls>
+<source src="./doc/Propaganda Definition.mp4"></source>
+</video>
+#+END_HTML
+- After watching the video on propaganda discuss the following questions with the person next to you, then record your thoughts in a Word document:
+[[./img/PropaBanner.png]]
+1. What do we mean by the term propaganda?
+2. How might an organisation try and change your beliefs?
+3. What's their motive for doing this?
+4. Their are a number of ways this can be carried out:
   - The bandwagon: "Everyone else is doing it"
   - Passing the blame: "This is all /their/ fault. Everything was fine until /they/ came along"
   - Youth speak: "Tell us how you feel about student loans in 3 emojis"
@@ -123,25 +127,25 @@ not?
   - Association: "If this celebrity does it, it must be good. You should do it too"
   - Lesser of two evils: Convincing you to make a bad decision by comparing it to something worse. 
   - Omission: "I’ll give you the full story, except I will just take out the most important part"
-- Which techniques are being used here?
+5. Which techniques are being used here?
 [[./img/assoc.png]]
-[[./img/omit.png]]
+[[./img/nike.png]]
 [[./img/youth.png]]
 [[./img/band.png]]
-** Learn It
+** Learn It: Social Media Propaganda
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-- Why might someone not give you the full picture?
-  - To sell you something 
-  - To hide something from you
-  - To make you do something
-  - To influence or change your views and beliefs
-
-- Propaganda can be used by anyone! 
-- It can be found in advertising or political campaigns
-- It can also be found on social media.
-- What might be the motivation for these tweets about a "Pop Factor" finalist?
+1. Why might someone not give you the full picture?
+  - To sell you something? 
+  - To hide something from you?
+  - To make you do something?
+  - To influence or change your views and beliefs?
+  - Propaganda can be used by anyone! 
+  - It can be found in advertising or political campaigns.
+  - It can also be found on social media.
+2. What might be the motivation for these tweets about a "Pop Factor" finalist?
+- *Add these to your notes!*
 [[./img/pop1.png]]
 [[./img/pop2.png]]
 [[./img/pop3.png]]
@@ -149,7 +153,7 @@ not?
 [[./img/pop4.png]]
 [[./img/pop5.png]]
 
-* Badge Task
+* Badge Tasks
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
