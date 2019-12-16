@@ -131,7 +131,7 @@ not?
 [[./img/assoc.png]]
 [[./img/nike.png]]
 [[./img/youth.png]]
-[[./img/band.png]]
+[[./img/iphone.png]]
 ** Learn It: Social Media Propaganda
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
