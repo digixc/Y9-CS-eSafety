@@ -115,7 +115,7 @@ not?
 </video>
 #+END_HTML
 - After watching the video on propaganda discuss the following questions with the person next to you, then record your thoughts in a Word document:
-[[./img/PropaBanner.png]]
+[[file:img/PropaBanner.png]]
 1. What do we mean by the term propaganda?
 2. How might an organisation try and change your beliefs?
 3. What's their motive for doing this?
@@ -128,10 +128,11 @@ not?
   - Lesser of two evils: Convincing you to make a bad decision by comparing it to something worse. 
   - Omission: "I’ll give you the full story, except I will just take out the most important part"
 5. Which techniques are being used here?
-[[./img/assoc.png]]
-[[./img/nike.png]]
-[[./img/youth.png]]
-[[./img/iphone.png]]
+[[file:img/assoc.png]]
+[[file:/img/nike.png]]
+[[file:img/youth.png]]
+[[file:img/iphone.png]]
+[[file:img/prop2.png]]
 ** Learn It: Social Media Propaganda
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
