@@ -111,7 +111,7 @@ not?
 - *Watch the video below:*
 #+BEGIN_HTML
 <video width="560" height="315"  controls>
-<source src="./doc/Propaganda Definition.mp4"></source>
+<source src="./doc/Propaganda_Definition.mp4"></source>
 </video>
 #+END_HTML
 - After watching the video on propaganda discuss the following questions with the person next to you, then record your thoughts in a Word document:
@@ -120,19 +120,19 @@ not?
 2. How might an organisation try and change your beliefs?
 3. What's their motive for doing this?
 4. Their are a number of ways this can be carried out:
-  - The bandwagon: "Everyone else is doing it"
-  - Passing the blame: "This is all /their/ fault. Everything was fine until /they/ came along"
-  - Youth speak: "Tell us how you feel about student loans in 3 emojis"
-  - Bold statements: "If you do/buy this, your life will be better"
-  - Association: "If this celebrity does it, it must be good. You should do it too"
-  - Lesser of two evils: Convincing you to make a bad decision by comparing it to something worse. 
-  - Omission: "I’ll give you the full story, except I will just take out the most important part"
+  - *The bandwagon:* "Everyone else is doing it"
+  - *Passing the blame:* "This is all /their/ fault. Everything was fine until /they/ came along"
+  - *Youth speak:* "Tell us how you feel about student loans in 3 emojis"
+  - *Bold statements:* "If you do/buy this, your life will be better"
+  - *Association:* "If this celebrity does it, it must be good. You should do it too"
+  - *Lesser of two evils:* Convincing you to make a bad decision by comparing it to something worse. 
+  - *Omission:* "I’ll give you the full story, except I will just take out the most important part"
 5. Which techniques are being used here?
-[[file:img/assoc.png]]
-[[file:/img/nike.png]]
-[[file:img/youth.png]]
-[[file:img/iphone.png]]
-[[file:img/prop2.png]]
+[[file:./img/assoc.png]]
+[[file:./img/Nike_Shoes.png]]
+[[file:./img/youth.png]]
+[[file:./img/iphone.png]]
+[[file:./img/prop2.png]]
 ** Learn It: Social Media Propaganda
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
@@ -165,21 +165,21 @@ not?
 :HTML_CONTAINER_CLASS: silver
 :END:
 *** Learning strand: Information Technology
-- Answer all questions in the worksheet with sufficient details and reasonably good English
+- Answer all questions in the worksheet with sufficient details and reasonably good English.
 
 ** Badge It - Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: gold
 :END:
 *** Learning strand: Information Technology
-- Answer all questions in the worksheet with good details and good English
+- Answer all questions in the worksheet with good details and good English.
 
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: platinum
 :END:
 *** Learning strand: Information Technology
-- Answer all questions in the worksheet with good details and excellent English
+- Answer all questions in the worksheet with good details and excellent English.
 
 
  Adapted from the superb resources at http://www.childnet.com/resources/trust-me
