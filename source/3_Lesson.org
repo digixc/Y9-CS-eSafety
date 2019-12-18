@@ -6,9 +6,9 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Stephen Fone
+#+AUTHOR: Created by Stephen Brown, Updated by Stephen Fone
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/digixc/Y9-CS-eSafety">Fork me on GitHub</a>
@@ -22,7 +22,7 @@
       <li><a href="homework.html">Homework</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -109,13 +109,13 @@ not?
 :HTML_CONTAINER_CLASS: research
 :END:
 - *Watch the video below:*
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <video width="560" height="315"  controls>
-<source src="./doc/Propaganda_Definition.mp4"></source>
+<source src="./doc/Propaganda_Definition.mp4" type='video/mp4'></source>
 </video>
-#+END_HTML
+#+END_EXPORT
 - After watching the video on propaganda discuss the following questions with the person next to you, then record your thoughts in a Word document:
-[[file:img/PropaBanner.png]]
+[[file:./img/PropaBanner.png]]
 1. What do we mean by the term propaganda?
 2. How might an organisation try and change your beliefs?
 3. What's their motive for doing this?
