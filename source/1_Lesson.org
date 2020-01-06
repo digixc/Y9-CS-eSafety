@@ -97,8 +97,10 @@
 :END:
 - There are lots of different Social media platforms.
 - They all have something different to offer, but they all have the potential for problems.
+- The following list of social media platforms are outdated.
 [[./img/networks.png]]
 - With a partner, see how many of the networks above can you identify in 3 minutes.
+- For a list of most up to date social platforms, have a look at the this site:  [[https://www.net-aware.org.uk][NSPCC Net Aware]] - you need to scroll down a bit once you are there
 - For each, how would you describe it to someone who has only ever used Facebook?
 ** Badge It
 :PROPERTIES:
