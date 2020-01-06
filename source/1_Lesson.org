@@ -6,9 +6,9 @@
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Stephen Fone
+#+AUTHOR: Updated by Xiaohui Ellis, Stephen Fone
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/digixc/Y9-CS-eSafety">Fork me on GitHub</a>
@@ -22,7 +22,7 @@
       <li><a href="homework.html">Homework</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
