@@ -99,15 +99,16 @@
 - They all have something different to offer, but they all have the potential for problems.
 - The following list of social media platforms are outdated.
 [[./img/networks.png]]
+
 - With a partner, see how many of the networks above can you identify in 3 minutes.
-- For a list of most up to date social platforms, have a look at the this site:  [[https://www.net-aware.org.uk][NSPCC Net Aware]] - you need to scroll down a bit once you are there
 - For each, how would you describe it to someone who has only ever used Facebook?
+- For a list of most up to date social platforms, apps and games, have a look at the this site:  [[https://www.net-aware.org.uk/networks][NSPCC Net Aware]] - you need to scroll down a bit once you are there
 ** Badge It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Your literacy is being assessed in this task. Ensure you spell-check your work, use paragraphs and appropriate vocabulary. 
-- Create a short summary document for a parent, explaining *five* different social media networks shown above. For each, explain:
+- Create a short summary document for a =parent=, explaining *five* different social media networks shown above. For each, explain:
   - A brief explanation of how the service works
   - What's good about it
   - Problems that can be encountered
